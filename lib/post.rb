@@ -7,3 +7,5 @@ class Post
 end
 
 end
+
+Post.author = author 
