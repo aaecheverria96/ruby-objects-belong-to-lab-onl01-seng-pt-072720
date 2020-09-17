@@ -5,4 +5,6 @@ class Artist
 def initialize(name)
   @name = name
 end
-end 
+end
+
+Artist.name(Feid)
